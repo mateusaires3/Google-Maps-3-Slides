@@ -6,7 +6,8 @@ public class Naipes {
 	final static int ESPADAS = 4;
 	
 	public static void main(String[] args) {
-		System.out.println(Naipes.OURO);
+		System.out.println(Naipes.OURO); 
+		System.out.println(Naipes.COPAS);
 	}
 
 }
